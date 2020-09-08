@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{2C009E34-4D03-AEE2-65CD-B2B4FABC4AF1}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MyUAV",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
